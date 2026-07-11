@@ -1,0 +1,13 @@
+DBMS and Operating Systems Review:
+
+1. Normalization Forms:
+- 1NF: Atomic values only. No repeating groups.
+- 2NF: In 1NF + all non-key attributes fully functional dependent on primary key.
+- 3NF: In 2NF + no transitive dependency.
+
+2. CPU Scheduling:
+- First-Come, First-Served (FCFS): Non-preemptive scheduling based on arrival order.
+- Shortest Job First (SJF): Non-preemptive scheduling based on shortest burst time.
+- Round Robin (RR): Preemptive scheduling with a fixed time slice quantum.
+
+3. Indexes: Database indexes speed up queries by avoiding scanning every row in a table.

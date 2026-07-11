@@ -1,0 +1,12 @@
+Python Interview Study Notes:
+
+1. Decorators: A decorator is a design pattern in Python that allows a user to add new functionality to an existing object without modifying its structure. It is syntactically represented by prefixing a function with @decorator_name.
+
+2. Big-O Complexity:
+- O(1): Constant Time
+- O(log n): Logarithmic Time (Binary Search)
+- O(n): Linear Time (Linear search)
+- O(n log n): Merge Sort, Quick Sort
+- O(n^2): Bubble Sort, Insertion Sort
+
+3. Lists: Python lists are ordered, mutable, and allow duplicate elements.

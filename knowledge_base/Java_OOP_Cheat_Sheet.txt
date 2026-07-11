@@ -1,0 +1,6 @@
+Java Object Oriented Programming Pillars:
+
+1. Encapsulation: Keeping fields within a class private, providing public getter and setter methods.
+2. Inheritance: Mechanism where one class acquires the properties of another using extends keyword.
+3. Polymorphism: Ability of an object to take many forms (e.g., method overloading and method overriding).
+4. Abstraction: Hiding implementation details and showing only functional definitions using abstract classes and interfaces.
