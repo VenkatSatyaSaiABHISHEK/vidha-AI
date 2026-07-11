@@ -2,8 +2,6 @@
 
 ### 🎓 K-Hub Batch 2026-27 | Senior Developer Intern Task Submission
 
-![Vedha AI Dashboard](src/assets/hero.png)
-
 ---
 
 ## 📌 Project Overview
